@@ -1,12 +1,6 @@
-----------------------------------------------------------------------------
-Este é o arquivo README do projeto. Você deve descrever aqui o seu projeto.
-Informe ao usuário (alguém que não sabe nada sobre este projeto!) tudo que
-ele/ela precisa saber. Os comentários devem incluir, pelo menos:
-------------------------------------------------------------------------
-
-TITULO DO PROJETO:
-OBJETIVO DO PROJETO:
-VERSÃO ou DATA:
-COMO INICIAR O PROJETO:
-AUTORES:
-INSTRUÇÕES PARA O USUÁRIO:
+TITULO DO PROJETO: Vallhala Adventure
+OBJETIVO DO PROJETO: Jogo
+VERSÃO ou DATA: V1 - Maio/22
+COMO INICIAR O PROJETO: Execute o arquivo ProgramaGrafico.java.
+AUTORES: Rafael Bastos Andrade 
+INSTRUÇÕES PARA O USUÁRIO: O jogo Valhalla Adventure se passa no século VII no auge da era viking, e seu objetivo principal é levar o personagem até o barco viking para fugir da ilha. Para isso o personagem deverá executar algumas tarefas que você deve descobrir jogando. Bom jogo!
