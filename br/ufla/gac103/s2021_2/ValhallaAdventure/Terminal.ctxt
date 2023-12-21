@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Terminal
+comment0.text=\r\n\ A\ classe\ Terminal\ trata\ entradas\ e\ saidas\ para\ o\ usuario.\r\n\ \r\n\ Igor\ Tavares\ e\ Rafael\ Bastos\ \r\n\ @version\ 1.0\r\n
+comment1.params=mensagem
+comment1.target=void\ exibirMensagem(java.lang.String)
+comment2.params=mensagem
+comment2.target=void\ continuarMensagem(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ obterComando()
+comment4.params=instrucao
+comment4.target=java.lang.String\ obterInformacao(java.lang.String)
+comment5.params=ambiente
+comment5.target=void\ ambienteAtualMudou(br.ufla.gac103.s2021_2.baseJogo.EntidadeGrafica)
+comment6.params=item
+comment6.target=void\ jogadorPegouItem(br.ufla.gac103.s2021_2.baseJogo.EntidadeGrafica)
+comment7.params=item
+comment7.target=void\ jogadorDescartouItem(br.ufla.gac103.s2021_2.baseJogo.EntidadeGrafica)
+numComments=8

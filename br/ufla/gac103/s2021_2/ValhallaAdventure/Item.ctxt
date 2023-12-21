@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Item\ aqui.\r\n\ \r\n\ @Rafael\ Bastos\ Andrade,\ Igor\ Tavares\ Sales\r\n\ @22/03/2022\r\n
+comment1.params=descricao\ nome\ peso\ caminho\ forcaDeAtaque
+comment1.target=Item(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ int)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Item\r\n
+comment2.params=
+comment2.target=java.lang.String\ getDescricao()
+comment3.params=
+comment3.target=java.lang.String\ getNomeItem()
+comment4.params=
+comment4.target=int\ getPeso()
+comment5.params=
+comment5.target=int\ getForcaDeAtaque()
+comment6.params=
+comment6.target=java.lang.String\ getNome()
+numComments=7

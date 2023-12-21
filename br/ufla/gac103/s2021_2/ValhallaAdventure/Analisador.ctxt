@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Analisador
+comment0.text=\r\n\ Esta\ classe\ eh\ parte\ da\ aplicacao\ "World\ of\ Zuul".\r\n\ "World\ of\ Zuul"\ eh\ um\ jogo\ de\ aventura\ muito\ simples,\ baseado\ em\ texto.\ \ \r\n\ \r\n\ Esse\ analisador\ le\ a\ entrada\ do\ usuario\ e\ tenta\ interpreta-la\ como\ um\r\n\ comando\ "Adventure".\ Cada\ vez\ que\ eh\ chamado\ ele\ le\ uma\ linha\ do\ terminal\r\n\ e\ tenta\ interpretar\ a\ linha\ como\ um\ comando\ de\ duas\ palavras.\ Ele\ retorna\r\n\ o\ comando\ como\ um\ objeto\ da\ classe\ Comando.\r\n\r\n\ O\ analisador\ tem\ um\ conjunto\ de\ palavras\ de\ comando\ conhecidas.\ Ele\ compara\r\n\ a\ entrada\ do\ usuario\ com\ os\ comandos\ conhecidos,\ e\ se\ a\ entrada\ nao\ eh\ um\r\n\ dos\ comandos\ conhecidos,\ ele\ retorna\ um\ objeto\ comando\ que\ eh\ marcado\ como\r\n\ um\ comando\ desconhecido.\r\n\ \r\n\ @author\ \ Michael\ K\u00F6lling\ and\ David\ J.\ Barnes\ (traduzido\ por\ Julio\ Cesar\ Alves)\r\n\ @version\ 2011.07.31\ (2016.02.01)\r\n
+comment1.params=interfaceUsuario
+comment1.target=Analisador(br.ufla.gac103.s2021_2.baseJogo.InterfaceUsuario)
+comment1.text=\r\n\ Cria\ um\ analisador\ para\ ler\ do\ terminal.\r\n
+comment2.params=
+comment2.target=Comando\ pegarComando()
+comment2.text=\r\n\ @return\ O\ proximo\ comando\ do\ usuario\r\n
+comment3.params=
+comment3.target=java.lang.String\ getComandos()
+numComments=4

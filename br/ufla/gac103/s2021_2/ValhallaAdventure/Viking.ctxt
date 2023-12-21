@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Viking
+comment0.text=\r\n\ A\ classe\ Viking\ \u00E9\ a\ classe\ que\ cria\ o\ jogador\ para\ o\ jogo.\r\n\ \r\n\ @author\ (Rafael\ Bastos\ Andrade)\ \r\n\ @version\ (22/03/2022)\r\n
+comment1.params=nome
+comment1.target=Viking(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=item
+comment3.target=void\ guardarItem(Item)
+comment4.params=nomeItem
+comment4.target=Item\ retirarItem(java.lang.String)
+comment4.text=\ m\u00E9todo\ para\ remover(retirar)\ um\ item\ da\ bolsa\ Viking,\ retorna\ o\ \r\nitem\ removido\ se\ ele\ estiver\ na\ bolsa\ e\ retorna\ null\ se\ ele\ n\u00E3o\ estiver
+comment5.params=nomeItem
+comment5.target=Item\ buscarItem(java.lang.String)
+comment5.text=\ m\u00E9todo\ para\ verificar\ se\ um\ item\ est\u00E1\ na\ bolsa\ a\ partir\ do\ seu\ nome\r\n\ retorna\ null\ se\ o\ item\ n\u00E3o\ estiver\ e\ retorna\ o\ pr\u00F3prio\ item\ se\ \r\nele\ estiver
+comment6.params=
+comment6.target=java.lang.String\ todosItens()
+numComments=7
